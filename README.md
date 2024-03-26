@@ -1,12 +1,9 @@
-<h1 align="center">Heya 👋, I'm Rayo</h1>
-<h3 align="center">21, Game Dev, Pixel Artist, Skeleton IRL</h3>
+<h1 align="center">Heya 👋, I'm Rayo <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNrNWF5M2ppbGQycWxjN2FtNWp6a2NoZXNmeHA0OGxwYXF6dDU1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wzTiiH6PX79b5cSCyR/giphy.gif" alt="rayoroar" /></h1>
+<h4 align="center">21, Game Dev, Pixel Artist, Skeleton IRL</h4>
 
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2IzaTRwYmF0bGY4NnE2bTdkczFrYjhmemh3OWV1MXQ3djBtaHh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iNOdS6PKKbMNQjrrhR/giphy.gif" alt="rayoroar" /> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rayoroar&label=Profile%20views&color=0e75b6&style=flat" alt="rayoroar" /> </p>
 <hr>
 
-- 🔭 I’m currently working on [Green Top](https://rayo75.itch.io/green-top)
+- 🔭 Currently working on [Green Top](https://rayo75.itch.io/green-top)
 
 - 👨‍💻 All of my projects are available at [https://rayo75.itch.io/](https://rayo75.itch.io/)
 
@@ -55,3 +52,5 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rayoroar&" alt="rayoroar" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayoroar" alt="rayoroar" /></a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rayoroar&label=Profile%20views&color=0e75b6&style=flat-square" alt="rayoroar" /> </p>
