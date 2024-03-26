@@ -6,8 +6,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rayoroar&label=Profile%20views&color=0e75b6&style=flat" alt="rayoroar" /> </p>
 <hr>
 
-<p align="left"> <a href="https://twitter.com/rayo75x" target="blank"><img src="https://img.shields.io/twitter/follow/rayo75x?logo=twitter&style=for-the-badge" alt="rayo75x" /></a> </p>
-
 - 🔭 I’m currently working on [Green Top](https://rayo75.itch.io/green-top)
 
 - 👨‍💻 All of my projects are available at [https://rayo75.itch.io/](https://rayo75.itch.io/)
