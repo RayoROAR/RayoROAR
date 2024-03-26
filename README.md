@@ -1,5 +1,5 @@
 <h1 align="center">Heya 👋, I'm Rayo <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNrNWF5M2ppbGQycWxjN2FtNWp6a2NoZXNmeHA0OGxwYXF6dDU1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wzTiiH6PX79b5cSCyR/giphy.gif" alt="rayoroar" /></h1>
-<h4 align="center">21, Game Dev, Pixel Artist, Skeleton IRL</h4>
+<h4 align="center">21, Game Dev, Pixel Artist, Cipher Creator, Skeleton IRL</h4>
 
 <hr>
 
